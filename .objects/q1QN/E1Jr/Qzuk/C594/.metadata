@@ -1,0 +1,14 @@
+﻿{
+  "Id": "C594vobpHUWEnJzwO-WT8A",
+  "Reference": "y_jcOU7IcE6Nz0OmU_5dFw/C594vobpHUWEnJzwO-WT8A",
+  "ParentRef": "y_jcOU7IcE6Nz0OmU_5dFw/Qzuks0JEY0yd4DUK8vkGiQ",
+  "Name": "Main window",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-01-16T14:10:28.8527702Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-16T14:10:28.8527702Z"
+}

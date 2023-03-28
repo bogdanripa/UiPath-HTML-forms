@@ -1,0 +1,15 @@
+﻿{
+  "Id": "Qzuks0JEY0yd4DUK8vkGiQ",
+  "Reference": "y_jcOU7IcE6Nz0OmU_5dFw/Qzuks0JEY0yd4DUK8vkGiQ",
+  "ParentRef": "y_jcOU7IcE6Nz0OmU_5dFw/E1JrelSBak-Vy8FFih6BgQ",
+  "Name": "Deposit",
+  "Type": "Screen",
+  "Created": "2023-01-12T09:06:22.1228567Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-16T14:09:52.4672278Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
